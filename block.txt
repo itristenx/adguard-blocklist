@@ -1,4 +1,4 @@
-||svcs.myharmony.com^$important
+# Smaller List Combined
 0.0.0.0 100.1qingdao.com
 0.0.0.0 7minuteworkout.com
 0.0.0.0 addshoppers.com
@@ -56,3 +56,7 @@
 0.0.0.0 www.unionleisurewear.com
 0.0.0.0 www.vntanktransport.com
 0.0.0.0 www.vydoxtrial.com
+
+# Logitech Harmony Hub
+||ps-964.pubnub.com^$client='HarmonyHub.lan',important
+||svcs.myharmony.com^$ client='HarmonyHub.lan',important
