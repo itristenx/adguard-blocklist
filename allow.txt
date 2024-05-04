@@ -1,6 +1,6 @@
 # Domains
 @@||itristen.com^$important
 @@||tristen.one^$important
-@@||trisone.link^$important
+@@||txyz.cloud^$important
 @@||sethking.com^$important
 @@||tristen.social^$important
